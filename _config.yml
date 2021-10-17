@@ -2,3 +2,4 @@ remote_theme: Bilal2453/cayman-docs
 title: The Grammar of Latin
 gems:
 - jekyll-seo-tag
+toc_parameter: true
