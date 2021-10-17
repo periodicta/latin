@@ -2,6 +2,6 @@
 layout: default
 ---
 
-# Latin Grammar
+# Latin Gram
 
 Welcome to the site! This is a test!
