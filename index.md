@@ -14,18 +14,15 @@ In the above example, `Bob` is our subject (performing the action), `threw` is o
 
 since word order isn't fixed in latin; you would be able to understand the meaning of the sentence based on the endings that the words would have.
 
----
-**NOTA BENE**
-
-Examples in this guide will often use blockquotes as shown above for examples. Notes might be styled more like this. Fun fact: "Nota bene" is latin for "Note well"!
-
----
-
-<div style="background-color:#CDB7F6; text-align:center; vertical-align: middle;" markdown="1">
-**Nota Bene**
-</div>
-
 <div class="note"></div>
-testing note testing note
+> Examples in this guide will often use blockquotes as shown above for examples. Notes might be styled more like this one. Fun fact: "Nota bene" is latin for "Note well"!
 
 Latin consists of several parts of speech that each follow different rules: **Nouns**, **Verbs**, **Adjectives**, **Prepositions**, **Adverbs**, and **Pronouns**. This guide will go over all of them one by one before we begin sentence construction.
+
+# Nouns
+
+Latin nouns are split into 5 different categories known as **declensions**. The only difference between these categories are how the nouns are **declined**, i.e, how their endings are formed. Each noun has 3 primary characteristics: **gender**, **number**, and **case**. Two of those, number and case, affect the ending of a noun, while gender is intrinsic to all nouns and will affect how it is modified by adjectives later on.
+
+## Characteristics of Nouns
+
+# Gender
