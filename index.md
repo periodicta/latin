@@ -21,7 +21,7 @@ Examples in this guide will often use blockquotes as shown above for examples. N
 
 ---
 
-<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0;" markdown="1">
+<div style="background-color:rgba(255, 0, 0); text-align:center; vertical-align: middle; padding:40px 0;" markdown="1">
 **Nota Bene**
 </div>
 
