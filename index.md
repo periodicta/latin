@@ -15,7 +15,7 @@ In the above example, `Bob` is our subject (performing the action), `threw` is o
 since word order isn't fixed in latin; you would be able to understand the meaning of the sentence based on the endings that the words would have.
 
 <div class="note"></div>
-> Examples in this guide will often use blockquotes as shown above for examples. Notes might be styled more like this one. Fun fact: "Nota bene" is latin for "Note well"!
+Examples in this guide will often use blockquotes as shown above for examples. Notes might be styled more like this one. Fun fact: "Nota bene" is latin for "Note well"!
 
 Latin consists of several parts of speech that each follow different rules: **Nouns**, **Verbs**, **Adjectives**, **Prepositions**, **Adverbs**, and **Pronouns**. This guide will go over all of them one by one before we begin sentence construction.
 
