@@ -51,13 +51,13 @@ Number in latin simply refers to whether a noun is **singular** or **plural**, a
 
 Finally, the case of a noun defines its usage in the sentence. There are 5 major cases in Latin: the **nominative**, **genitive**, **dative**, **accusative**, and **ablative**, abbreviated as `nom.`, `gen.` `dat.`, `acc.`, and `abl.`, respectively. There are also a few much less frequent cases, the **vocative** (`voc.`), and the **locative** (`loc.`). The form of a noun will tell you what case the noun is in, which will tell you its role in the sentence:
 
-- Nom.: subject of the sentence
-- Gen.: possessive
-- Dat.: indirect object
-- Acc.: direct object
-- Abl.: variety of uses, including object of prepositions
-- Voc.: direct address
-- Loc.: location of an object
+- Nom. - subject of the sentence
+- Gen. - possessive
+- Dat. - indirect object
+- Acc. - direct object
+- Abl. - variety of uses, including object of prepositions
+- Voc. - direct address
+- Loc. - location of an object
 
 ---
 **NOTA BENE**
