@@ -25,4 +25,7 @@ Examples in this guide will often use blockquotes as shown above for examples. N
 **Nota Bene**
 </div>
 
+<div class="note"></div>
+testing note testing note
+
 Latin consists of several parts of speech that each follow different rules: **Nouns**, **Verbs**, **Adjectives**, **Prepositions**, **Adverbs**, and **Pronouns**. This guide will go over all of them one by one before we begin sentence construction.
