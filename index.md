@@ -41,4 +41,27 @@ The 3 primary characteristics of a Latin noun are **gender**, **number**, and **
 
 ### Gender
 
-Every noun in Latin has one of three genders: **masculine**, **feminine**, or **neuter**. The gender of a noun has no bearing on how it is declined, but rather affects how it will be modified by adjectives and pronouns. Although there are no hard and fast definitions for which nouns have which genders, there are certain patterns; for example, abstract nouns like <span class="tooltip" markdown="1">*libertas*<span class="tooltiptext">libertas, libertatis (f.): *liberty*</span></span> are often feminine.
+Every noun in Latin has one of three genders: **masculine**, **feminine**, or **neuter**, abbreviated as `m.`, `f.`, or `n.`, respectively. The gender of a noun has no bearing on how it is declined, but rather affects how it will be modified by adjectives and pronouns. Although there are no hard and fast definitions for which nouns have which genders, there are certain patterns; for example, abstract nouns like <span class="tooltip" markdown="1">libertas<span class="tooltiptext">libertas, libertatis (f.): *liberty*</span></span> are often feminine. In addition, the grammatical gender of people almost always refers to their correct gender, regardless of the declension of their noun, such as  <span class="tooltip" markdown="1">Achilles<span class="tooltiptext">Achilles, Achillis (m.): *Achilles*</span></span>.
+
+### Number
+
+Number in latin simply refers to whether a noun is **singular** or **plural**, abbreviated as `sg.` or `pl.` respectively. When a noun is singular, there is only one of them, while if it is plural there are more than one of them. For example, the sg. noun <span class="tooltip" markdown="1">liber<span class="tooltiptext">liber, libri (m.): *book*</span></span> refers to a single book, while the pl. <span class="tooltip" markdown="1">libri<span class="tooltiptext">liber, libri (m.): *book*</span></span> refers to multiple books.
+
+### Case
+
+Finally, the case of a noun defines its usage in the sentence. There are 5 major cases in Latin: the **nominative**, **genitive**, **dative**, **accusative**, and **ablative**, abbreviated as `nom.`, `gen.` `dat.`, `acc.`, and `abl.`, respectively. There are also a few much less frequent cases, the **vocative** (`voc.`), and the **locative** (`loc.`). The form of a noun will tell you what case the noun is in, which will tell you its role in the sentence:
+
+- Nom.: subject of the sentence
+- Gen.: possessive
+- Dat.: indirect object
+- Acc.: direct object
+- Abl.: variety of uses, including object of prepositions
+- Voc.: direct address
+- Loc.: location of an object
+
+---
+**NOTA BENE**
+
+These are only *some* of the many usages of these cases, we will go into more detailed usage later on.
+
+---
