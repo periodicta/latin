@@ -44,4 +44,4 @@ The 3 primary characteristics of a Latin noun are **gender**, **number**, and **
 Every noun in Latin has one of three genders: **masculine**, **feminine**, or **neuter**. The gender of a noun has no bearing on how it is declined, but rather affects how it will be modified by adjectives and pronouns. Although there are no hard and fast definitions for which nouns have which genders, there are certain patterns; for example, 
 
 ### Abbreviation
-[Display text](a "Hover text")
+This is a [hover text](## "your hover text") example.
