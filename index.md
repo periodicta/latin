@@ -23,7 +23,18 @@ Latin consists of several parts of speech that each follow different rules: **No
 
 Latin nouns are split into 5 different categories known as **declensions**. The only difference between these categories are how the nouns are **declined**, i.e, how their endings are formed. Each noun has 3 primary characteristics: **gender**, **number**, and **case**. Two of those, number and case, affect the ending of a noun, while gender is intrinsic to all nouns and will affect how it is modified by adjectives later on.
 
-<p class="noteBoxes type1"><img src="https://svgsilh.com/svg/98739.svg" class="picture">Warning information box Warning information box Warning information box Warning information box Warning information box Warning information box Warning information box Warning information box Warning information box Warning information box Warning information box Warning information box Warning information box Warning information box Warning information box Warning information box Warning information box </p>
+<div class="noteBoxes type3" style="display:flex;">
+	<img src="exclamation-triangle-solid.svg" class="note-box-icon">
+	 <div>
+		<p>Deep space exploration is the branch of:</p>
+		<ul>
+			<li>astronomy, </li>
+			<li>astronautics,</li>
+			<li>space technology.</li>
+		</ul>
+		<p>It is involved with exploring the distant regions of outer space.</p>
+	</div>
+</div>
 
 ## Characteristics of Nouns
 
