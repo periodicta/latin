@@ -14,19 +14,37 @@ In the above example, `Bob` is our subject (performing the action), `threw` is o
 
 since word order isn't fixed in latin; you would be able to understand the meaning of the sentence based on the endings that the words would have.
 
-<div class="note"></div>
-Examples in this guide will often use blockquotes as shown above for examples. Notes might be styled more like this one. Fun fact: "Nota bene" is latin for "Note well"!
+---
+**NOTA BENE**
+
+Examples in this guide like the ones above will usually be in block quotes, while notes may be formatted like this! Fun fact: "Nota bene" means "note well" in Latin!
+
+---
 
 Latin consists of several parts of speech that each follow different rules: **Nouns**, **Verbs**, **Adjectives**, **Prepositions**, **Adverbs**, and **Pronouns**. This guide will go over all of them one by one before we begin sentence construction.
 
+In Latin, words are defined by their **lexical entry**, a set of words which explains everything necessary to create all their forms.
+
 # Nouns
 
-Latin nouns are split into 5 different categories known as **declensions**. The only difference between these categories are how the nouns are **declined**, i.e, how their endings are formed. Each noun has 3 primary characteristics: **gender**, **number**, and **case**. Two of those, number and case, affect the ending of a noun, while gender is intrinsic to all nouns and will affect how it is modified by adjectives later on.
+Nouns represent *things*, often physical, tangible objects, but sometimes more abstract concepts. Nouns in Latin are split into 5 different categories known as **declensions**. The only difference between these categories are how the nouns are **declined**, i.e, how their endings are formed. Each noun has 3 primary characteristics: **gender**, **number**, and **case**.
 
-<div class="note">
-This is a note!
-</div>
+The general lexical entry of a noun has the following form: nom. sg., nom. pl. (gender): *meaning*. For example, the Latin word for water is
+
+> aqua, aquae (f.): *water*
+
+In the above lexical entry, `aqua` and `aquae` are the nominative singular and plural, respectively, while `f.` denotes that it is feminine in gender and in italics it is indicated that it means `water` in English.
 
 ## Characteristics of Nouns
 
+The 3 primary characteristics of a Latin noun are **gender**, **number**, and **case**. Number and case change the ending of a noun while gender is intrinsic to every noun and will affect the words that modify it.
+
 ### Gender
+
+Every noun in Latin has one of three genders: **masculine**, **feminine**, or **neuter**. The gender of a noun has no bearing on how it is declined, but rather affects how it will be modified by adjectives and pronouns. Although there are no hard and fast definitions for which nouns have which genders, there are certain patterns; for example, 
+
+### Abbreviation
+The HTML specification
+is maintained by the W3C.
+*[HTML]: Hyper Text Markup Language
+*[W3C]: World Wide Web Consortium
